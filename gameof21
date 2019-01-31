@@ -3,13 +3,14 @@ Public Class Form1
     'Game of 21
     '1/18/2018
 
-    Private playerScore As Integer
+    Private playerScore, playerMoney As Integer
 
     Private Sub clickToExit(ByVal sender As Object, ByVal e As System.EventArgs) Handles mnuExit.Click
         Application.Exit()
     End Sub
 
     Private Sub clickToDrawCard(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnDrawCard.Click
+
         Dim playerCard3 As Integer
 
         playerCard3 = Int(10 * Rnd() + 1)
@@ -19,9 +20,11 @@ Public Class Form1
         Me.lblPlayerScoreDisplay.Text = playerScore
 
         btnDrawCard.Enabled = False
+
     End Sub
 
     Private Sub clickToCheckScore(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCheckScore.Click
+
         Dim compCard1, compCard2, compCard3, compScore As Integer
 
         compCard1 = Int(10 * Rnd() + 1)
@@ -35,38 +38,53 @@ Public Class Form1
         compScore = compCard1 + compCard2 + compCard3
         Me.lblComputerScoreDisplay.Text = compScore
 
-        btnCheckScore.Enabled = False
-        btnDrawCard.Enabled = False
-
         If playerScore > 21 And compScore > 21 Then
+
             MessageBox.Show("It is a tie", "TIE", MessageBoxButtons.OK)
+
         ElseIf playerScore > 21 Or compScore > 21 Then
+
             If playerScore > 21 Then
-                MessageBox.Show("You have been busted!", "BUSTED", MessageBoxButtons.OK)
+                MessageBox.Show("You lose, you have been busted!", "BUSTED", MessageBoxButtons.OK, MessageBoxIcon.Error)
             Else
-                MessageBox.Show("You Win!, The computer has been busted!", "BUSTED", MessageBoxButtons.OK)
+                MessageBox.Show("You Win! The computer has been busted!", "BUSTED", MessageBoxButtons.OK)
+                playerMoney += 40
+                Me.lblMoneyDisplay.Text = playerMoney
             End If
+
         ElseIf playerScore <= 21 And compScore <= 21 Then
+
             If playerScore > compScore Then
                 MessageBox.Show("You WIN!", "WIN", MessageBoxButtons.OK)
+                playerMoney += 40
+                Me.lblMoneyDisplay.Text = playerMoney
             ElseIf compScore > playerScore Then
-                MessageBox.Show("You lose!", "LOSE", MessageBoxButtons.OK)
+                MessageBox.Show("You lose!", "LOSE", MessageBoxButtons.OK, MessageBoxIcon.Error)
             Else
                 MessageBox.Show("It is a tie!", "TIE", MessageBoxButtons.OK)
             End If
+
         End If
+
+        btnCheckScore.Enabled = False
+        btnDrawCard.Enabled = False
 
     End Sub
 
     Private Sub formLoad(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
         Randomize()
 
         btnCheckScore.Enabled = False
         btnDrawCard.Enabled = False
 
+        playerMoney = 100
+        Me.lblMoneyDisplay.Text = playerMoney
+
     End Sub
 
     Private Sub clickForNewGame(ByVal sender As Object, ByVal e As System.EventArgs) Handles mnuNewGame.Click
+
         Dim playerCard1, playerCard2 As Integer
 
         btnCheckScore.Enabled = True
@@ -89,6 +107,9 @@ Public Class Form1
         Me.lblComputerCard3.Text = Nothing
 
         Me.lblComputerScoreDisplay.Text = Nothing
+
+        playerMoney -= 20
+        Me.lblMoneyDisplay.Text = playerMoney
 
     End Sub
 End Class
