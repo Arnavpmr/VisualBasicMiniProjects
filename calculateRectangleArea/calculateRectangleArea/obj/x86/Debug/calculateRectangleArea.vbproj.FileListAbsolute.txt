@@ -1,0 +1,9 @@
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\bin\Debug\calculateRectangleArea.exe
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\bin\Debug\calculateRectangleArea.pdb
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\bin\Debug\calculateRectangleArea.xml
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\obj\x86\Debug\calculateRectangleArea.Form1.resources
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\obj\x86\Debug\calculateRectangleArea.Resources.resources
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\obj\x86\Debug\calculateRectangleArea.vbproj.GenerateResource.Cache
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\obj\x86\Debug\calculateRectangleArea.exe
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\obj\x86\Debug\calculateRectangleArea.xml
+L:\_Visual Basic 3\402774\calculateRectangleArea\calculateRectangleArea\obj\x86\Debug\calculateRectangleArea.pdb

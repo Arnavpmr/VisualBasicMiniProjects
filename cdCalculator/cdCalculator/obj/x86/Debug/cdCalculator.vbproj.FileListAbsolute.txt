@@ -1,0 +1,9 @@
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\bin\Debug\cdCalculator.exe
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\bin\Debug\cdCalculator.pdb
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\bin\Debug\cdCalculator.xml
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\obj\x86\Debug\cdCalculator.Form1.resources
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\obj\x86\Debug\cdCalculator.Resources.resources
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\obj\x86\Debug\cdCalculator.vbproj.GenerateResource.Cache
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\obj\x86\Debug\cdCalculator.exe
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\obj\x86\Debug\cdCalculator.xml
+L:\_Visual Basic 3\402774\cdCalculator\cdCalculator\obj\x86\Debug\cdCalculator.pdb

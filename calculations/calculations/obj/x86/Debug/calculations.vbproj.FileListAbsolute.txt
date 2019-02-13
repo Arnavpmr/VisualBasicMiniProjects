@@ -1,0 +1,9 @@
+L:\_Visual Basic 3\402774\calculations\calculations\bin\Debug\calculations.exe
+L:\_Visual Basic 3\402774\calculations\calculations\bin\Debug\calculations.pdb
+L:\_Visual Basic 3\402774\calculations\calculations\bin\Debug\calculations.xml
+L:\_Visual Basic 3\402774\calculations\calculations\obj\x86\Debug\calculations.Form1.resources
+L:\_Visual Basic 3\402774\calculations\calculations\obj\x86\Debug\calculations.Resources.resources
+L:\_Visual Basic 3\402774\calculations\calculations\obj\x86\Debug\calculations.vbproj.GenerateResource.Cache
+L:\_Visual Basic 3\402774\calculations\calculations\obj\x86\Debug\calculations.exe
+L:\_Visual Basic 3\402774\calculations\calculations\obj\x86\Debug\calculations.xml
+L:\_Visual Basic 3\402774\calculations\calculations\obj\x86\Debug\calculations.pdb
