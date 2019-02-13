@@ -1,0 +1,9 @@
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\bin\Debug\bandInformationDisplay.exe
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\bin\Debug\bandInformationDisplay.pdb
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\bin\Debug\bandInformationDisplay.xml
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\obj\x86\Debug\bandInformationDisplay.Form1.resources
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\obj\x86\Debug\bandInformationDisplay.Resources.resources
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\obj\x86\Debug\bandInformationDisplay.vbproj.GenerateResource.Cache
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\obj\x86\Debug\bandInformationDisplay.exe
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\obj\x86\Debug\bandInformationDisplay.xml
+L:\_Visual Basic 3\402774\bandInformationDisplay\bandInformationDisplay\obj\x86\Debug\bandInformationDisplay.pdb
