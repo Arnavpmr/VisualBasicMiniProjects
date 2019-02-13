@@ -1,0 +1,9 @@
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\bin\Debug\sandwichOrder.exe
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\bin\Debug\sandwichOrder.pdb
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\bin\Debug\sandwichOrder.xml
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\obj\x86\Debug\sandwichOrder.Form1.resources
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\obj\x86\Debug\sandwichOrder.Resources.resources
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\obj\x86\Debug\sandwichOrder.vbproj.GenerateResource.Cache
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\obj\x86\Debug\sandwichOrder.exe
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\obj\x86\Debug\sandwichOrder.xml
+L:\_Visual Basic 3\402774\sandwichOrder\sandwichOrder\obj\x86\Debug\sandwichOrder.pdb

@@ -1,0 +1,9 @@
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\bin\Debug\PrintingPrices.exe
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\bin\Debug\PrintingPrices.pdb
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\bin\Debug\PrintingPrices.xml
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\obj\x86\Debug\PrintingPrices.Form1.resources
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\obj\x86\Debug\PrintingPrices.Resources.resources
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\obj\x86\Debug\PrintingPrices.vbproj.GenerateResource.Cache
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\obj\x86\Debug\PrintingPrices.exe
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\obj\x86\Debug\PrintingPrices.xml
+L:\_Visual Basic 3\402774\PrintingPrices\PrintingPrices\obj\x86\Debug\PrintingPrices.pdb
